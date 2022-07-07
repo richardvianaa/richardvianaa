@@ -1,7 +1,6 @@
 ### Olá, eu sou o Richard Viana 👋
 
-- 🔭 iN Curso;
-- 🌱 Desenvolvedor Full-Stack;
+- 🔭  Desenvolvedor Full-Stack;
 - 💬 Estudando JavaScript;
 - 😄 Pronouns: eu/me.
 
