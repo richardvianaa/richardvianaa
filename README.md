@@ -1,7 +1,7 @@
 ### Olá, eu sou o Richard Viana 👋
 
-- 🔭  Desenvolvedor Full-Stack;
-- 💬 Estudando JavaScript;
+- 🔭  Desenvolvedor Web Full-Stack;
+- 💬 My languages: JavaScript, Java, ...;
 - 😄 Pronouns: eu/me.
 
 <div align="center">
